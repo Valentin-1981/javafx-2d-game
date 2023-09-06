@@ -11,14 +11,14 @@
             <Image url="@../../../images/background.jpg" />
          </image>
       </ImageView>
+      <ImageView fx:id="background2" fitHeight="446.0" fitWidth="715.0" layoutX="715.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../images/background.jpg" />
+         </image>
+      </ImageView>
       <ImageView fx:id="player" fitHeight="150.0" fitWidth="200.0" layoutY="174.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="715.0" AnchorPane.topAnchor="174.0">
          <image>
             <Image url="@../../../images/action-man.png" />
-         </image>
-      </ImageView>
-      <ImageView fx:id="background2" fitHeight="400.0" fitWidth="715.0" layoutX="715.0" pickOnBounds="true" preserveRatio="true">
-         <image>
-            <Image url="@../../../images/background.jpg" />
          </image>
       </ImageView>
    </children>
